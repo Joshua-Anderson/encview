@@ -12,5 +12,5 @@ If anyone's figured out how to make `xdg-open` block or somehow find the launche
 
 This is only going to work on linux computers, but could likely be ported to OSX with minimal effort.
 
-Usage: `encview <filename>`
-Installation: `cp encview.py /usr/local/bin/encview`
+- Usage: `encview <filename>`
+- Installation: `cp encview.py /usr/local/bin/encview`
